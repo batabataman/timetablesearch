@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">時刻検索</string>
+    <string name="station_result_single">駅名の検索結果は1件です</string>
+    <string name="station_result_multi">駅名の検索結果は複数です</string>
+    <string name="station_result_status">station_result_status</string>
+    <string name="intent_key_status">intent_key_status</string>
+    <string name="rosen_map">rosen_map</string>
+    <string name="station_map">station_map</string>
+    <string name="station_name">station_name</string>
+    <string name="station_url">station_url</string>
+    <string name="timetable_list_file">timetable_list_file</string>
+</resources>
